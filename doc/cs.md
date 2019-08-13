@@ -26,7 +26,7 @@ Robot vydělává na rozdílech mezi nákupní a prodejní cenou obchodovaného 
 
 ## Na jakém trhu robot funguje nejlépe?
 
-Ideálním trhem je trh, který jde dlouhodobě do boku avšak objevují se na něm vlnky a výkyvy. Čí vyšší jsou výkyvy nahoru a dolu, tím většího zisku může robot dosáhnout. Naopak trendující trhy, u kterých je trend strmější než denní volatilita v součtu mohou rapidně srážet výkon a přinášet ztráty - avšak krátkodobé trendy, které končí změnou trendu mohou naopak být vítané, protože to co robot zobchoduje jedním směrem pak pokryje se ziskem druhým směrem
+Ideálním trhem je trh, který jde dlouhodobě do boku avšak objevují se na něm vlnky a výkyvy. Čím vyšší jsou výkyvy nahoru a dolu, tím většího zisku může robot dosáhnout. Naopak trendující trhy, u kterých je trend strmější než denní volatilita v součtu mohou rapidně srážet výkon a přinášet ztráty - avšak krátkodobé trendy, které končí změnou trendu mohou naopak být vítané, protože to co robot zobchoduje jedním směrem pak pokryje se ziskem druhým směrem
 
 ## Jaké mám očekávat zisky?
 
